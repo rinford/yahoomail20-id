@@ -104,7 +104,7 @@ p{
 .main_container{
     min-height: 100vh;
     width: 100%;
-	background-image: url(https://static.tumblr.com/f6ofgcr/rjtqbs1mr/bg_top.png);
+	background-image: url(../images/bg_top.png);
 	background-size: 75% auto;
 	background-repeat: no-repeat;
 	background-position: top left;
@@ -112,7 +112,7 @@ p{
 }
 .maincontent_container{
 	min-height: 100vh;
-	background-image: url(https://static.tumblr.com/f6ofgcr/g6qqbs1mq/bg_bot.png);
+	background-image: url(../images/bg_bot.png);
 	background-size: 20% auto;
 	background-repeat: no-repeat;
 	background-position: bottom right;
@@ -165,7 +165,7 @@ p{
 			right: 20px;
 			cursor: pointer;
 			width: 30px;
-			background-image: url(https://static.tumblr.com/f6ofgcr/ZHfqbs1nu/close_button.png);
+			background-image: url(../images/close_button.png);
 			background-size: 100% auto;
 			background-repeat: no-repeat;
 			background-position: top center;
@@ -176,7 +176,7 @@ p{
 			font-weight: 600;
 		}
 		.videocarousel_container .video_four .closepanel{
-			background-image: url(https://static.tumblr.com/f6ofgcr/PiKqbs1of/close_button_purple.png);
+			background-image: url(../images/close_button_purple.png);
 			color: #7800FF;
 		}
 		.videocarousel_container .videocarousel_cell .video_text{
@@ -270,7 +270,7 @@ p{
 		}
 .maincontent_container .contentscroll_container{
 	width: 100%;
-	background-image: url(https://static.tumblr.com/f6ofgcr/zehqbs1p3/panelshadow.png);
+	background-image: url(../images/panelshadow.png);
 	background-repeat: no-repeat;
 	background-position: bottom center;
 	background-size: 85% auto;
